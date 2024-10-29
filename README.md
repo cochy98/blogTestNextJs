@@ -3,6 +3,10 @@
 ## Objective
 Create a simple blog application using Next.js and React, following the instructions below. The application should display a list of posts retrieved from the `/api/posts` API, along with detail pages for each post.
 
+```diff
+! if you don't know Next.j/React. you can do the exercise with a peer javascript technology
+```
+
 ## Requirements
 
 ### Homepage

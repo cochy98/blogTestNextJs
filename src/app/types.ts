@@ -6,3 +6,7 @@ export type BlogPost = {
   image: string;
   publishDate: Date;
 };
+
+export type PostDetailsParams = {
+  id: string
+};

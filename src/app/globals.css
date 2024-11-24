@@ -25,3 +25,7 @@ body {
     text-wrap: balance;
   }
 }
+
+main {
+  padding: 2rem 2rem 6rem;
+}
